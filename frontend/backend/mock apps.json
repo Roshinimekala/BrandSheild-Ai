@@ -1,0 +1,13 @@
+[
+  {"kind":"app","store":"Google Play","id":"net.one97.paytm","name":"Paytm: Secure UPI Payments","publisher":"One97 Communications Limited","description":"Paytm - India's leading payments app. Recharge, pay bills, UPI.","installs":"500M+"},
+  {"kind":"app","store":"Google Play","id":"com.quickapps.paytm.rewards","name":"Paytm Rewards Official","publisher":"Quick Apps Studio","description":"Paytm - India's leading payments app. Recharge, pay bills, UPI. Claim cashback rewards.","installs":"10K+"},
+  {"kind":"app","store":"Google Play","id":"com.pay.tm.wallet.pro","name":"Pay tm Wallet Pro","publisher":"Wallet Labs","description":"Fast wallet recharge and bill pay for Paytm users.","installs":"5K+"},
+  {"kind":"app","store":"Google Play","id":"in.paytrn.loans","name":"Paytrn Instant Loan","publisher":"FinEasy Tech","description":"Get instant loans. Paytm partner. UPI payments made easy.","installs":"50K+"},
+  {"kind":"app","store":"Google Play","id":"com.p4ytm.cashback","name":"P4ytm Cashback India","publisher":"Reward Hub","description":"Earn Paytm cashback every day.","installs":"1K+"},
+  {"kind":"app","store":"Google Play","id":"com.dev.payday.planner","name":"Pay Day Planner","publisher":"Budget Tools Inc","description":"Plan your salary and monthly budget.","installs":"100K+"},
+  {"kind":"app","store":"Google Play","id":"com.palmtree.cafe","name":"Palm Tree Cafe","publisher":"Palm Tree Cafe","description":"Order coffee and brunch.","installs":"10K+"},
+  {"kind":"app","store":"App Store","id":"id473941634","name":"Paytm: Secure UPI Payments","publisher":"Paytm","description":"Paytm - India's leading payments app. Recharge, pay bills, UPI.","installs":""},
+  {"kind":"app","store":"App Store","id":"id999000111","name":"Paytm Official Support","publisher":"Care Desk Apps","description":"Customer care for Paytm. Get refunds and resolve payment issues.","installs":""},
+  {"kind":"app","store":"App Store","id":"id999000222","name":"Pay-tm Quick Pay","publisher":"Swift Mobile LLC","description":"Quick payments and recharge. Paytm style UPI.","installs":""},
+  {"kind":"app","store":"App Store","id":"id999000333","name":"Paytm Business Tools","publisher":"One97 Communications Limited","description":"Tools for Paytm merchants.","installs":""}
+]

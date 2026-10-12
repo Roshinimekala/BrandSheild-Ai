@@ -1,0 +1,14 @@
+[
+  {"kind":"social","platform":"Instagram","id":"paytm","handle":"paytm","name":"Paytm","verified":true,"followers":4200000,"description":"Paytm - India's leading payments app. Recharge, pay bills, UPI."},
+  {"kind":"social","platform":"X","id":"paytmcare","handle":"paytmcare","name":"Paytm Care","verified":true,"followers":310000,"description":"Official customer support handle of Paytm."},
+  {"kind":"social","platform":"X","id":"paytm_support_help","handle":"paytm_support_help","name":"Paytm Customer Support","verified":false,"followers":212,"description":"DM us your UPI PIN and phone number to get your refund instantly."},
+  {"kind":"social","platform":"Instagram","id":"paytrn.official","handle":"paytrn.official","name":"Paytrn Official","verified":false,"followers":1480,"description":"Win Rs 50,000 cashback! Click the link in bio to claim your reward."},
+  {"kind":"social","platform":"Facebook","id":"pay.tm.rewards","handle":"pay.tm.rewards","name":"Pay tm Rewards","verified":false,"followers":903,"description":"Paytm rewards and offers - claim now. India's leading payments app."},
+  {"kind":"social","platform":"Telegram","id":"p4ytm_jobs","handle":"p4ytm_jobs","name":"P4ytm Jobs India","verified":false,"followers":2650,"description":"Work from home with Paytm. Registration fee required."},
+  {"kind":"social","platform":"Facebook","id":"paytmloan_india","handle":"paytmloan_india","name":"Paytm Instant Loan","verified":false,"followers":5120,"description":"Instant loans without documents. Pay processing fee first."},
+  {"kind":"social","platform":"Instagram","id":"paytm_fan_memes","handle":"paytm_fan_memes","name":"Memes About Paytm","verified":false,"followers":7800,"description":"Fan-run memes page. Not affiliated with any company."},
+  {"kind":"social","platform":"X","id":"payday_loans_uk","handle":"payday_loans_uk","name":"Pay Day Loans UK","verified":false,"followers":410,"description":"Short-term loans in the UK."},
+  {"kind":"social","platform":"Instagram","id":"palm_tree_cafe","handle":"palm_tree_cafe","name":"Palm Tree Cafe","verified":false,"followers":930,"description":"Coffee and brunch by the beach."},
+  {"kind":"social","platform":"LinkedIn","id":"paytm-careers-hq","handle":"paytm-careers-hq","name":"Paytm Careers HQ","verified":false,"followers":88,"description":"Apply now. Pay Rs 1,500 security deposit to confirm your interview."},
+  {"kind":"social","platform":"X","id":"pаytm","handle":"pаytm","name":"Pаytm","verified":false,"followers":64,"description":"Paytm customer care. Share OTP to resolve your issue."}
+]
